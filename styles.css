@@ -137,7 +137,7 @@ button:hover {
     background-color: white;
     border-radius: 10px;
     text-decoration: none;
-    margin-bottom: 4px; /* Marge en bas de la page */
+    margin-bottom: 10px; /* Marge en bas de la page */
 }
 
 .bar-button:hover {
