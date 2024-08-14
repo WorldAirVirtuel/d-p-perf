@@ -128,7 +128,7 @@ button:hover {
 .bar-button-container {
     display: flex;
     justify-content: center;
-    margin-top: 4px; /* Marge de 4px avec l'élément au-dessus */
+    margin-top: 10px; /* Marge de 4px avec l'élément au-dessus */
 }
 
 .bar-button {
